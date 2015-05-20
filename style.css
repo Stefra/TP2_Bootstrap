@@ -15,4 +15,9 @@ body
 {
 	background-color: black;
 }
+.carousel .glyphicon
+{
+	color: white;
+	font-size: 30px;
+}
 /* --------------------------------------------------------- */
